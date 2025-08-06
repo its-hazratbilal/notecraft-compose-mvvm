@@ -2,6 +2,8 @@
 > 📝 A modern note-taking app built with **Jetpack Compose**, showcasing a clean **MVVM architecture**, state management, and best Android development practices.  
 > This project demonstrates the use of **Compose, Hilt, Retrofit, and Coroutines** to build scalable and efficient Android apps.
 
+<br>
+
 ## 🚀 Features
 - 🔐 **User Authentication** – Register and log in securely  
 - 📝 **Create, Edit, and Delete Notes** – Manage your notes effortlessly  
