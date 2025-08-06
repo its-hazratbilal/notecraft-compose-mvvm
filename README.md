@@ -1,5 +1,5 @@
 # 📒 NoteCraft Compose (MVVM)
-> 📝 A modern note-taking app built with **Jetpack Compose**, showcasing a clean **MVVM architecture**, state management, and best Android development practices.  
+> 📝 A modern note-taking app built with **Jetpack Compose**, showcasing a clean **MVVM architecture**, **state management**, and best Android development practices.  
 > This project demonstrates the use of **Compose, Hilt, Retrofit, and Coroutines** to build scalable and efficient Android apps.
 
 <br>
